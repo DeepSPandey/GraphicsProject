@@ -1,0 +1,10 @@
+This is my third year computer Graphics project where I made a clock and a game environment. Most of the things are done from scratch using only basic opengl commands.(2015) 
+
+
+
+some setup references:
+https://askubuntu.com/questions/965147/how-to-setup-codeblocks-for-glfw-development
+sudo apt-get install freeglut3-dev
+
+
+
